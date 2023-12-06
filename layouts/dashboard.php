@@ -39,7 +39,7 @@
 				</li>
 				<li>
 					<a href="<?php echo URL; ?>/baju">
-						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Bajus
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Baju
 					</a>
 				</li>
 				<li>
